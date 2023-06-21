@@ -49,10 +49,9 @@ The submitted workpieces will then be evaluated, and based on that, a grade will
 
 ## Meeting place
 
-- Preliminary meeting: July 12th (Wed), 2023 01:00 PM CET online (zoom)
+- Preliminary meeting: July 6th (Thu), 2023 01:00 PM CET online (zoom)
     - [Slide](./slides/preliminary_meeting.pdf)
-    - [Zoom link](https://tum-conf.zoom.us/j/69411117164?pwd=bFdUbkFmb3NsOUs0VzAzWHh5cXB1dz09)
-
+    - [Zoom link](https://tum-conf.zoom.us/j/66631605558?pwd=N3ZzdTRaNEdxQk1MU3VjMElXU2xzQT09)
 
 ## Tasks
 
