@@ -1,4 +1,4 @@
-# Practical course: Advanced Systems Programming in C/Rust -- WiSe 2023
+# Practical course: Systems Programming in C/Rust -- WiSe 2023
 
 ## Chair website
 
