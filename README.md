@@ -1,4 +1,4 @@
-# Practical course: Systems Programming in C/Rust -- WiSe 2023
+# Practical course: Systems Programming -- WS 2023
 
 ## Chair website
 
@@ -68,6 +68,7 @@ The schedule may change. **All deadlines are at 16:00 (CEST).**
 | [Memory Management](https://github.com/ls1-sys-prog-course/task5-memory) | [Sebastian](https://github.com/Sebastian-Reimers) | 05.06.23     | 19.06.23 | 30     | [link](./slides/05-memory_management.pdf)   | [Lecture](https://youtu.be/1LxVzohqRx0)                                       |
 | [Networking](https://github.com/ls1-sys-prog-course/task6-sockets)       | [Jiyang](https://github.com/jedichen121)          | 12.06.23     | 26.06.23 | 30     | [link](./slides/06-network_programming.pdf) | [Lecture](https://youtu.be/fDRaXnhjoDE)                                       |
 | [Performance](https://github.com/ls1-sys-prog-course/task7-performance)  | [Tianchi](https://github.com/lialittis)           | 19.06.23     | 03.07.23 | 40     | [link](./slides/07-performance.pdf)         | [Lecture](https://youtu.be/o1SkOoCyHDI)                                       |
+| [Compilers](https://github.com/ls1-sys-prog-course/task7-performance)  | [Tianchi](https://github.com/lialittis)           | 19.06.23     | 03.07.23 | 40     | [link](./slides/07-performance.pdf)         | [Lecture](https://youtu.be/o1SkOoCyHDI)                                       |
 
 
 Note that
